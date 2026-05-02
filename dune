@@ -1,0 +1,7 @@
+; (executable
+;  (names huff bs heap)
+;  (promote (until-clean)))
+
+(executables
+ (names bs heap huffman huff test)
+ (modules bs heap huffman huff test))
