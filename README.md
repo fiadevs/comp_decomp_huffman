@@ -31,7 +31,7 @@ projet/
 
 ### Prérequis
 
-- OCaml ≥ 4.x
+- OCaml
 - `dune`
 
 ### Build
